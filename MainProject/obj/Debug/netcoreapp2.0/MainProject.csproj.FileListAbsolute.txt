@@ -1,0 +1,11 @@
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\bin\Debug\netcoreapp2.0\MainProject.deps.json
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\bin\Debug\netcoreapp2.0\MainProject.runtimeconfig.json
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\bin\Debug\netcoreapp2.0\MainProject.runtimeconfig.dev.json
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\bin\Debug\netcoreapp2.0\MainProject.dll
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\MainProject.csproj.CoreCompileInputs.cache
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\MainProject.AssemblyInfoInputs.cache
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\MainProject.AssemblyInfo.cs
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\bin\Debug\netcoreapp2.0\MainProject.pdb
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\MainProject.dll
+F:\LEARN\TRAINNING .NET PROGRAMMING AND MOBILITY\LaptopStore\MainProject\obj\Debug\netcoreapp2.0\MainProject.pdb

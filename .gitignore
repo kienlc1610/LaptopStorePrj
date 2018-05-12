@@ -43,3 +43,4 @@ TestResults/
 global.json
 korebuild-lock.txt
 MainProject/wwwroot/lib/*
+commit 2
